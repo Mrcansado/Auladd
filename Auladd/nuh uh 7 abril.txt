@@ -1,0 +1,18 @@
+git hub pra burros como eu
+
+
+git status
+
+git add. (me perdi como direcionar o git .)
+
+gir[] repositório
+
+git clone mudar repositiro
+
+git push
+
+git config == global iser,email ""
+
+git config  
+
+como que eu linko o meu Git bash com minha pasta?
